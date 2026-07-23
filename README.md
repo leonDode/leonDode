@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonDode&layout=compact" height="150" alt="languages graph"  />
+  <img src="./profile/top-langs.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
